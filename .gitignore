@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+entorno-env/
+venv/
+env/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Tutorial HTML files
+*.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
